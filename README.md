@@ -31,4 +31,4 @@
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>NAR Web Server Issue 2009 に掲載されているサーバーリスト(Bioinformatics Links Directory)
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="http://bioinformatics.ca/links_directory/narweb2009/" rel="nofollow">http://bioinformatics.ca/links_directory/narweb2009/</a></li></ul></li></ul>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>前座 by なかざと
-<ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS14.5&amp;openfile=nar.ws.09.pdf" title="2009/11/24 19:42:05 786.4KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />nar.ws.09.pdf</a></li></ul></li></ul>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="nar.ws.09.pdf" title="2009/11/24 19:42:05 786.4KB">nar.ws.09.pdf</a></li></ul></li></ul>
